@@ -35,6 +35,10 @@ afeta a luz que inside sobre os elementos do sistema solar.
 </tr>
 </table>
 
+## Avaliação
+
+### 18 Valores em 20 Possíveis
+
 ### Ferramentas e Tecnologias
 
 [![C][C]][C-url] [![C++][C++]][C++-url] [![GLSL][GLSL]][GLSL-url] [![OpenGL][OpenGL]][OpenGL-url] [![Visual-Studio][Visual-Studio]][Visual-Studio-url] [![Trello][Trello]][Trello-url] [![LaTeX][LaTeX]][LaTeX-url] [![Overleaf][Overleaf]][Overleaf-url]
