@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\UBI\ANO_3\1Semestre\CG\Projeto\SistemaSolar\GLFWOpenGL\include\shader_m.h(58,40): warning C4101: 'e': variável local não referenciada
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\UBI\ANO_3\1Semestre\CG\Projeto\SistemaSolar\GLFWOpenGL\main.cpp(357,28): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\UBI\ANO_3\1Semestre\CG\Projeto\SistemaSolar\GLFWOpenGL\main.cpp(890,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\UBI\ANO_3\1Semestre\CG\Projeto\SistemaSolar\GLFWOpenGL\main.cpp(891,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\UBI\ANO_3\1Semestre\CG\Projeto\SistemaSolar\GLFWOpenGL\main.cpp(895,19): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\UBI\ANO_3\1Semestre\CG\Projeto\SistemaSolar\GLFWOpenGL\main.cpp(896,19): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\UBI\ANO_3\1Semestre\CG\Projeto\SistemaSolar\GLFWOpenGL\main.cpp(898,13): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\UBI\ANO_3\1Semestre\CG\Projeto\SistemaSolar\GLFWOpenGL\main.cpp(899,13): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\UBI\ANO_3\1Semestre\CG\Projeto\SistemaSolar\GLFWOpenGL\main.cpp(907,31): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+LINK : fatal error LNK1104: não é possível abrir o arquivo 'freetype.lib'
