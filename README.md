@@ -261,6 +261,8 @@ Após a entrega deste projeto ficará público :  https://github.com/Sistema-Sol
 - [LaTeX](https://www.latex-project.org/help/documentation/)
 - [Overleaf](https://www.overleaf.com/learn)
 
+> A restante documentação encontra-se no extenso Relatório Técnico estruturado mediante o desenvolvimento deste projeto.
+
 <!-- 
 - [C++](https://www.cplusplus.com/doc/)
 - [JetBrains](https://www.jetbrains.com/help/)
